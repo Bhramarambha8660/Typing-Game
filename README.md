@@ -25,7 +25,7 @@ A simple and fun speed typing game built using **HTML, CSS, and JavaScript**.
    ```
 2. Navigate to the project directory:
    ```sh
-   cd speed-typer
+   cd typing-game
    ```
 3. Open `index.html` in your browser.
 
